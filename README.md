@@ -1,6 +1,6 @@
 # jQuery Simple Sign Up Form
 
-Responsive jQuery Sign Up Form with email notification. #### [Demo Page and Full Details](http://sympies.com/free-jquery-signup-form/) ####
+Responsive jQuery Sign Up Form with email notification. [Demo Page and Full Details](http://sympies.com/free-jquery-signup-form/)
 
 ## Features ##
 * responsive, centered layout

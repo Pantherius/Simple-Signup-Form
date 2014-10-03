@@ -1,0 +1,34 @@
+{
+    "name": "simplesignupform",
+    "title": "Simple Signup Form - jQuery Plugin",
+    "description": "Build responsive sign up form with email notification. Provides Visual Builder and lot of customization options.",
+    "keywords": [
+        "signup",
+        "form",
+		"jquery",
+		"responsive",
+		"email",
+		"visual builder",
+		"custom styles",
+		"marketing",
+		"social login",
+		"google plus"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Pantherius",
+        "url": "http://sympies.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://en.wikipedia.org/wiki/MIT_License"
+        }
+    ],
+    "homepage": "http://sympies.com",
+    "download": "http://sympies.com/free-jquery-signup-form/",
+    "dependencies": {
+        "jquery": ">=1.5"
+    },
+	"demo": "http://sympies.com/free-jquery-signup-form/"
+}

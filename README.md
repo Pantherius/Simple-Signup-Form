@@ -29,5 +29,4 @@ $(document).ready(function() {
 
 jQuery Simple Signup Form is published under the [MIT license](http://www.opensource.org/licenses/mit-license).
 
-
 ### [Demo Page and Full Details](http://sympies.com/free-jquery-signup-form/) ###

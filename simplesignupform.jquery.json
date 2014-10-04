@@ -30,9 +30,9 @@
         }
     ],
     "homepage": "http://sympies.com",
-    "download": "http://sympies.com/free-jquery-signup-form/",
+    "download": "http://sympies.com/free-jquery-wordpress-signup-form/",
     "dependencies": {
         "jquery": ">=1.5"
     },
-	"demo": "http://sympies.com/free-jquery-signup-form/"
+	"demo": "http://sympies.com/free-jquery-wordpress-signup-form/"
 }

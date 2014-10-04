@@ -8,13 +8,17 @@
 		"jquery",
 		"responsive",
 		"email",
-		"visual builder",
-		"custom styles",
+		"visual",
+		"builder",
+		"custom",
+		"styles",
 		"marketing",
-		"social login",
-		"google plus"
+		"social",
+		"login",
+		"google",
+		"plus"
     ],
-    "version": "1.0.6",
+    "version": "1.0.7",
     "author": {
         "name": "Pantherius",
         "url": "http://sympies.com"

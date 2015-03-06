@@ -29,4 +29,8 @@ $(document).ready(function() {
 
 jQuery Simple Signup Form is published under the [MIT license](http://www.opensource.org/licenses/mit-license).
 
+## WordPress & Pro Version ##
+
+Simple Signup Form Pro version provides much more features, check out the [jQuery Simple Signup](http://codecanyon.net/item/simple-subscription-popupjquery-email-signup-form/7301421?ref=pantherius) and the [Simple Signup Subscription Form for WordPress](http://codecanyon.net/item/simple-signup-wordpress-email-subscription-form/7644126?ref=pantherius) versions.
+
 ### [Demo Page and Full Details](http://sympies.com/free-jquery-signup-form/) ###

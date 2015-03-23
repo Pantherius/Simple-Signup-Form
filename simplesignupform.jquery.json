@@ -18,10 +18,10 @@
 		"google",
 		"plus"
     ],
-    "version": "1.0.8",
+    "version": "1.0.9",
     "author": {
         "name": "Pantherius",
-        "url": "http://sympies.com"
+        "url": "http://pantherius.com"
     },
     "licenses": [
         {
@@ -29,10 +29,10 @@
             "url": "http://en.wikipedia.org/wiki/MIT_License"
         }
     ],
-    "homepage": "http://sympies.com",
-    "download": "http://sympies.com/free-jquery-wordpress-signup-form/",
+    "homepage": "http://pantherius.com",
+    "download": "http://pantherius.com/free-jquery-wordpress-signup-form/",
     "dependencies": {
         "jquery": ">=1.5"
     },
-	"demo": "http://sympies.com/free-jquery-wordpress-signup-form/"
+	"demo": "http://pantherius.com/free-jquery-wordpress-signup-form/"
 }

@@ -1,10 +1,10 @@
 /************************************************************
 * Filename: custom.js										*
-* Title: Loyalty - Responsive HTML5 Coming Soon Template		*
-* Description: Custom Javascript / $ file				*
+* Title: Loyalty - Responsive HTML5 Coming Soon Template	*
+* Description: Custom Javascript / $ file					*
 * Author: Pantherius										*
 * Author Page: http://codecanyon.net/user/pantherius		*
-* Website: http://sympies.com								*
+* Website: http://pantherius.com							*
 *															*
 * release date: 21-01-2014									*
 *															*

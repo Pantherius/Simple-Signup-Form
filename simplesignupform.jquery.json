@@ -30,9 +30,9 @@
         }
     ],
     "homepage": "http://pantherius.com",
-    "download": "http://pantherius.com/free-jquery-wordpress-signup-form/",
+    "download": "http://pantherius.com/free-jquery-wordpress-signup-form",
     "dependencies": {
         "jquery": ">=1.5"
     },
-	"demo": "http://pantherius.com/free-jquery-wordpress-signup-form/"
+	"demo": "http://pantherius.com/free-jquery-wordpress-signup-form"
 }

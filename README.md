@@ -1,6 +1,6 @@
 # jQuery Simple Sign Up Form
 
-Responsive jQuery Sign Up Form with email notification. [Demo Page and Full Details](http://pantherius.com/free-jquery-wordpress-signup-form)
+Responsive jQuery Sign Up Form with email notification.
 
 ## Features ##
 * responsive, centered layout
@@ -27,11 +27,16 @@ $(document).ready(function() {
 
 ## License ##
 
-jQuery Simple Signup Form is published under the [MIT license](http://www.opensource.org/licenses/mit-license).
+jQuery Simple Signup Form is published under the MIT license.
 
-## WordPress & Pro Version ##
+## Other Projects ##
 
-Simple Signup Form Pro version provides much more features, check out the [jQuery Simple Signup](http://codecanyon.net/item/simple-subscription-popupjquery-email-signup-form/7301421?ref=pantherius) and the [Simple Signup Subscription Form for WordPress](http://codecanyon.net/item/simple-signup-wordpress-email-subscription-form/7644126?ref=pantherius) versions.
+#### [jQuery Signup Popup - Pop Up Forms](https://codecanyon.net/item/simple-subscription-popupjquery-email-signup-form/7301421?ref=pantherius) ####
 
-### [Demo Page and Full Details](http://pantherius.com/free-jquery-wordpress-signup-form) ###
-[WordPress Plugins & Tutorials](http://innovativeplugins.com)
+#### [FullScreen Background Slider - jQuery Image Slideshow](https://codecanyon.net/item/fullscreen-background-slider-jquery-slideshow/6692226?ref=pantherius) ####
+
+## WordPress Projects ##
+
+#### [W8 Contact Form - WordPress Sliding Contact Form Plugin](https://codecanyon.net/item/w8-contact-form-wordpress-contact-form-plugin/9661063?ref=pantherius) ####
+#### [Simple Signup - Sign Up Plugin for WordPress](https://codecanyon.net/item/simple-signup-wordpress-newsletter-form-plugin/7644126?ref=pantherius) ####
+

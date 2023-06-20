@@ -35,6 +35,8 @@ jQuery Simple Signup Form is published under the MIT license.
 
 #### [FullScreen Background Slider - jQuery Image Slideshow](https://codecanyon.net/item/fullscreen-background-slider-jquery-slideshow/6692226?ref=pantherius) ####
 
+#### [Board Game Upgrades](https://boardgameset) ####
+
 ## WordPress Projects ##
 
 #### [W8 Contact Form - WordPress Sliding Contact Form Plugin](https://codecanyon.net/item/w8-contact-form-wordpress-contact-form-plugin/9661063?ref=pantherius) ####
